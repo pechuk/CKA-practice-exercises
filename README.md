@@ -1,5 +1,7 @@
 # CKA preparation
 
+[![code style: prettier](https://img.shields.io/badge/code_style-prettier-ff69b4.svg?style=flat-square)](https://github.com/prettier/prettier)
+
 ## CNCF CKA official page:
 
 https://www.cncf.io/certification/cka/
@@ -9,6 +11,7 @@ https://www.cncf.io/certification/cka/
 https://github.com/cncf/curriculum/blob/master/CKA_Curriculum_v1.20.pdf
 
 You will be evaluated on 5 topics around Kubernetes administration:
+
 - [Cluster Architecture, Installation & Configuration 25%](https://github.com/alijahnas/CKA-practice-exercises/blob/CKA-v1.20/cluster-architecture-installation-configuration.md)
 - [Workloads & Scheduling 15%](https://github.com/alijahnas/CKA-practice-exercises/blob/CKA-v1.20/workloads-scheduling.md)
 - [Services & Networking 20%](https://github.com/alijahnas/CKA-practice-exercises/blob/CKA-v1.20/services-networking.md)
